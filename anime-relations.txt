@@ -346,6 +346,9 @@
 # Fate/Zero -> ~ 2nd Season
 - 10087|6028|10087:14-25 -> 11741|7658|11741:1-12!
 
+# Free!–the Final Stroke– - Zenpen > Free!–the Final Stroke– Kouhen
+- 38400|42357|107203:2 -> 48830|44651|133124:1!
+
 # Futsuu no Joshikousei ga [Locodol] Yattemita. -> ~: Nagarekawa, Annai Shitemita.
 - 22189|8267|20611:13 -> 25719|8659|20851:1
 # Futsuu no Joshikousei ga [Locodol] Yattemita. -> ~ OVA
